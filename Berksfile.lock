@@ -1,0 +1,7 @@
+DEPENDENCIES
+  sudo
+  user
+
+GRAPH
+  sudo (2.7.1)
+  user (0.3.0)
